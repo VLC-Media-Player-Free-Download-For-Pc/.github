@@ -51,7 +51,7 @@ Many media players are available, but VLC stands out due to its unique advantage
 - **Lightweight & Fast**: VLC is not resource-intensive and runs smoothly even on older systems.
 - **No Ads or Spyware**: Unlike many free players, VLC does not contain ads, spyware, or user tracking.
 - **Frequent Updates**: The VideoLAN team consistently updates VLC to enhance security, add features, and fix bugs.
-- **Huge Community Support**: Being an open-source project, VLC has a massive community of users and developers contributing to its growth.
+- **Huge Community Support**: Being an open-source project, VLC has a massive community of user and developers contributing to its growth.
 
 ## Conclusion
 
